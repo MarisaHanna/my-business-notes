@@ -35,11 +35,10 @@
 
 
 
-#       Links to Deployed Application
+#       Link to Deployed Application
 
-*[GitHub Link](https://marisahanna.github.io/my-business-notes/)
 
-*[Heroku Link](https://aqueous-wildwood-29107.herokuapp.com/)
+[Heroku Link](https://aqueous-wildwood-29107.herokuapp.com/)
 
 
 
