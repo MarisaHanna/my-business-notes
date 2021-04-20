@@ -29,7 +29,7 @@ app.get('/api/notes/:id', (req, res) =>{
 
 
 app.get ('*', (req, res) =>{
-    res.sendFile(path.join (myPath, 'index.html'))
+    res.sendFile(path.join (__dirname, 'index.html'))
 });
 
 app.post('/api/notes', (req, res) =>{
